@@ -1,3 +1,3 @@
 Hi, This is Chandra Mohan.
 
-Enthuthiast in Information Security Technologies and Cloud Native Technologies
+Enthuthiast in Information and Cloud Native Technologies
